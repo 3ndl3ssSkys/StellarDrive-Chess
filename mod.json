@@ -1,0 +1,7 @@
+{
+    "id": "Chess",
+    "name": "Chess",
+    "author": "EndlessSkys",
+    "version": "1.0.0",
+    "description": "Adds the game of Chess to Stellar Drive. \nSyncs the board across servers and works in multiplayer.\nOther players are required to have this mod for it to function properly."
+}
